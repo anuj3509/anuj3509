@@ -40,6 +40,8 @@ Machine Learning, Deep Learning, Computer Vision, Distributed Systems, MLOps, Wi
 
 Check out my repositories for exciting projects and my latest work in data science, machine learning, and wireless communications!
 
+<!--  
 ## 📈 GitHub Stats
 
 ![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuj3509&show_icons=true&theme=radical)
+-->
