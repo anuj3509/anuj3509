@@ -21,3 +21,8 @@ I am a **Data Science & Machine Learning Enthusiast** with a strong foundation i
 - Email: amp10162@nyu.edu
 
 Check out my repositories for exciting projects and my latest work in data science, machine learning, and wireless communications!
+
+## 📈 GitHub Stats
+
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuj3509&show_icons=true&theme=radical)
+
