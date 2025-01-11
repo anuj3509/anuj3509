@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3AE0FFEB&background=40FF7E00&center=true&lines=Hi+there%2C+I+am+Anuj+Patel+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3AE0FFEB&background=40FF7E00&lines=Hi+there%2C+I+am+Anuj+Patel+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 I am a **Data Science & Machine Learning Enthusiast** with a strong foundation in Electrical Engineering and a keen interest in exploring the intersections of  **Machine Learning**, **Data Science**, **Wireless Communications**, and **Big Data**. Currently pursuing my Master's in Electrical Engineering at **New York University**, I aim to solve real-world problems using innovative technology and data-driven approaches.
 
