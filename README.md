@@ -80,7 +80,7 @@ Let’s [connect](https://www.linkedin.com/in/panuj/)!!
   <br>
 
   <!-- Data Science & Machine Learning -->
-  <img src="https://img.shields.io/badge/Data_Science_%26_Machine_Learning-F7DF1E?style=flat&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data_Science_%26_ML-F7DF1E?style=flat&logoColor=black" />
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /></a>
   <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /></a>
   <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" /></a>
@@ -92,7 +92,6 @@ Let’s [connect](https://www.linkedin.com/in/panuj/)!!
   <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging_Face-FF4F00?style=flat&logo=huggingface&logoColor=white" /></a>
   <a href="https://www.testandtrack.ai/"><img src="https://img.shields.io/badge/A%2FB_Testing-FF5733?style=flat&logo=testandtrack&logoColor=white" /></a>
   <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" /></a>
-  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /></a>
 
   <br>
 
@@ -135,6 +134,7 @@ Let’s [connect](https://www.linkedin.com/in/panuj/)!!
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /></a>
   <a href="https://d3js.org/"><img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></a>
+  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /></a>
   <br>
   
   <!-- Wireless Technologies -->
