@@ -64,54 +64,68 @@ Let’s [connect](https://www.linkedin.com/in/panuj/)!!
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="left">
+
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Programming_Languages-F7DF1E?style=flat&logoColor=black" />
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></a>
+  <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" /></a>
   <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" /></a>
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /></a>
+  <a href="https://developer.nvidia.com/cuda-zone"><img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" /></a>
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white" /></a>
+  <a href="https://www.ni.com/en-us/shop/labview.html"><img src="https://img.shields.io/badge/LabVIEW-F5D200?style=flat&logo=ni&logoColor=black" /></a>
   <br>
+
   <!-- Data Science & Machine Learning -->
   <img src="https://img.shields.io/badge/Data_Science_%26_Machine_Learning-F7DF1E?style=flat&logoColor=black" />
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /></a>
-  <a href="https://xgboost.ai/"><img src="https://img.shields.io/badge/XGBoost-FF6F00?style=flat&logo=xgboost&logoColor=white" /></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" /></a>
-  <a href="https://plotly.com/"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" /></a>
-  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" /></a>
-  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /></a>
+  <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" /></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /></a>
+  <a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLFlow-0194E2?style=flat&logo=mlflow&logoColor=white" /></a>
+  <a href="https://www.mlops.community/"><img src="https://img.shields.io/badge/MLOps-76B900?style=flat&logo=mlops&logoColor=white" /></a>
   <br>
-  <!-- SQL & Databases -->
-  <img src="https://img.shields.io/badge/SQL_%26_Databases-F7DF1E?style=flat&logoColor=black" />
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /></a>
-  <a href="https://www.snowflake.com/"><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" /></a>
-  <a href="https://cloud.google.com/bigquery"><img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white" /></a>
-  <a href="https://www.sqlalchemy.org/"><img src="https://img.shields.io/badge/SQLAlchemy-100000?style=flat&logo=sqlalchemy&logoColor=white" /></a>
-  <a href="https://aws.amazon.com/redshift/"><img src="https://img.shields.io/badge/Amazon_Redshift-232F3E?style=flat&logo=amazon-aws&logoColor=white" /></a>
+
+  <!-- Data Engineering & Big Data -->
+  <img src="https://img.shields.io/badge/Data_Engineering_%26_Big_Data-F7DF1E?style=flat&logoColor=black" />
+  <a href="https://spark.apache.org/"><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" /></a>
+  <a href="https://hadoop.apache.org/"><img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black" /></a>
+  <a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" /></a>
+  <a href="https://airflow.apache.org/"><img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /></a>
+  <a href="https://learn.microsoft.com/en-us/azure/cosmos-db/"><img src="https://img.shields.io/badge/CosmosDB-0078D4?style=flat&logo=microsoftazure&logoColor=white" /></a>
   <br>
-  <!-- R Technologies -->
-  <img src="https://img.shields.io/badge/R_Technologies-F7DF1E?style=flat&logoColor=black" />
-  <a href="https://ggplot2.tidyverse.org/"><img src="https://img.shields.io/badge/ggplot2-2D3E50?style=flat&logo=ggplot2&logoColor=white" /></a>
-  <a href="https://dplyr.tidyverse.org/"><img src="https://img.shields.io/badge/dplyr-276DC3?style=flat&logo=r&logoColor=white" /></a>
-  <a href="https://shiny.rstudio.com/"><img src="https://img.shields.io/badge/Shiny-276DC3?style=flat&logo=r&logoColor=white" /></a>
-  <a href="https://www.tidyverse.org/"><img src="https://img.shields.io/badge/Tidyverse-276DC3?style=flat&logo=r&logoColor=white" /></a>
-  <a href="https://rstudio.github.io/leaflet/"><img src="https://img.shields.io/badge/leaflet-199900?style=flat&logo=r&logoColor=white" /></a>
-  <a href="https://cran.r-project.org/web/packages/tmap/index.html"><img src="https://img.shields.io/badge/tmap-276DC3?style=flat&logo=r&logoColor=white" /></a>
-  <a href="https://jkunst.com/highcharter/"><img src="https://img.shields.io/badge/highcharter-FF5733?style=flat&logo=r&logoColor=white" /></a>
-  <br>
-  <!-- DevOps & Cloud -->
-  <img src="https://img.shields.io/badge/DevOps_%26_Cloud-F7DF1E?style=flat&logoColor=black" />
+
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/Cloud_%26_DevOps-F7DF1E?style=flat&logoColor=black" />
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" /></a>
+  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" /></a>
+  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" /></a>
+  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" /></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /></a>
-  <a href="https://airflow.apache.org/"><img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" /></a>
-  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /></a>
-  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" /></a>
-<!--   <a href="https://python-poetry.org/"><img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat&logo=poetry&logoColor=white" /></a>
-  <a href="https://docs.pytest.org/en/6.2.x/"><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" /></a> -->
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /></a>
   <br>
-  <!-- Web Technologies -->
-  <img src="https://img.shields.io/badge/Web_Technologies-F7DF1E?style=flat&logoColor=black" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /></a>
-  <a href="https://d3js.org/"><img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></a>
+
+  <!-- Data Visualization -->
+  <img src="https://img.shields.io/badge/Data_Visualization-F7DF1E?style=flat&logoColor=black" />
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/matplotlib-3776AB?style=flat&logo=python&logoColor=white" /></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/seaborn-3776AB?style=flat&logo=python&logoColor=white" /></a>
+  <a href="https://plotly.com/"><img src="https://img.shields.io/badge/plotly-3F4F75?style=flat&logo=plotly&logoColor=white" /></a>
+  <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" /></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" /></a>
+  <br>
+
+  <!-- Wireless Technologies -->
+  <img src="https://img.shields.io/badge/Wireless_Technologies-F7DF1E?style=flat&logoColor=black" />
+  <a href="https://en.wikipedia.org/wiki/5G"><img src="https://img.shields.io/badge/5G-00549F?style=flat&logo=qualcomm&logoColor=white" /></a>
+  <a href="https://en.wikipedia.org/wiki/Wireshark"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" /></a>
 </p>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
