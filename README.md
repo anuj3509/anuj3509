@@ -115,16 +115,23 @@ Let’s [connect](https://www.linkedin.com/in/panuj/)!!
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<!-- Github Stats -->
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=anuj3509&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=vue&hide_border=true" alt="GitHub Stats" style="margin-right: 10px;" />
 
-  <!-- GitHub Streak 
-  <img src="https://streak-stats.demolab.com/?user=anuj3509&theme=vue&hide_border=true" alt="GitHub Streak" />
-</p>
--->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anuj3509&theme=vue&hide_border=true)](https://git.io/streak-stats)
+
+
+<table>
+  <tr>
+    <!-- GitHub Stats -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=anuj3509&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=vue&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <!-- GitHub Streak -->
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=anuj3509&theme=vue&hide_border=true" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   <!-- GitHub Trophies -->
@@ -132,8 +139,6 @@ Let’s [connect](https://www.linkedin.com/in/panuj/)!!
     <img src="https://github-profile-trophy.vercel.app/?username=anuj3509&theme=vue&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="80%" />
   </a>
 </p>
-
-
 
 
 **Education**:  
