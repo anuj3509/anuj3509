@@ -116,8 +116,6 @@ Let’s [connect](https://www.linkedin.com/in/panuj/)!!
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 
-
-
 <table>
   <tr>
     <!-- GitHub Stats -->
@@ -139,7 +137,6 @@ Let’s [connect](https://www.linkedin.com/in/panuj/)!!
     <img src="https://github-profile-trophy.vercel.app/?username=anuj3509&theme=vue&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="80%" />
   </a>
 </p>
-
 
 **Education**:  
   - M.S. in Electrical Engineering (New York University)  
