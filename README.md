@@ -88,7 +88,6 @@ Let’s [connect](https://www.linkedin.com/in/panuj/)!!
   <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /></a>
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /></a>
   <a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLFlow-0194E2?style=flat&logo=mlflow&logoColor=white" /></a>
-  <a href="https://www.mlops.community/"><img src="https://img.shields.io/badge/MLOps-76B900?style=flat&logo=mlops&logoColor=white" /></a>
   <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging_Face-FF4F00?style=flat&logo=huggingface&logoColor=white" /></a>
   <a href="https://www.testandtrack.ai/"><img src="https://img.shields.io/badge/A%2FB_Testing-FF5733?style=flat&logo=testandtrack&logoColor=white" /></a>
   <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" /></a>
@@ -101,11 +100,9 @@ Let’s [connect](https://www.linkedin.com/in/panuj/)!!
   <a href="https://hadoop.apache.org/"><img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black" /></a>
   <a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" /></a>
   <a href="https://airflow.apache.org/"><img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /></a>
   <a href="https://www.snowflake.com/"><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" /></a>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /></a>
   <a href="https://learn.microsoft.com/en-us/azure/cosmos-db/"><img src="https://img.shields.io/badge/CosmosDB-0078D4?style=flat&logo=microsoftazure&logoColor=white" /></a>
-  <a href="https://www.bigquery.com/"><img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white" /></a>
   <br>
 
   <!-- Cloud & DevOps -->
