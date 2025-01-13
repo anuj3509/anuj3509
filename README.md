@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3AE0FFEB&background=40FF7E00&lines=Hi+there%2C+I+am+Anuj+Patel+%F0%9F%91%8B)](https://git.io/typing-svg)
-
 <!--
 I am a **Data Science & Machine Learning Enthusiast** with a strong foundation in Electrical Engineering and a keen interest in exploring the intersections of  **Machine Learning**, **Data Science**, **Wireless Communications**, and **Big Data**. Currently pursuing my Master's in Electrical Engineering at **New York University**, I aim to solve real-world problems using innovative technology and data-driven approaches.
 
@@ -38,8 +36,9 @@ Machine Learning, Deep Learning, Computer Vision, Distributed Systems, MLOps, Wi
 ## 🌐 Connect with Me:
 - LinkedIn: [linkedin.com/in/panuj](https://linkedin.com/in/panuj)
 - Email: amp10162@nyu.edu
-
 -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3AE0FFEB&background=40FF7E00&lines=Hi+there%2C+I+am+Anuj+Patel+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="30"/> **About Me**
@@ -121,9 +120,11 @@ Let’s [connect](https://www.linkedin.com/in/panuj/)!!
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=anuj3509&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=vue&hide_border=true" alt="GitHub Stats" style="margin-right: 10px;" />
 
-  <!-- GitHub Streak -->
+  <!-- GitHub Streak 
   <img src="https://streak-stats.demolab.com/?user=anuj3509&theme=vue&hide_border=true" alt="GitHub Streak" />
 </p>
+-->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anuj3509&theme=vue&hide_border=true)](https://git.io/streak-stats)
 
 <p align="left">
   <!-- GitHub Trophies -->
