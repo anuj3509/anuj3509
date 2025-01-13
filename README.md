@@ -89,7 +89,7 @@ Let’s [connect](https://www.linkedin.com/in/panuj/)!!
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /></a>
   <a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLFlow-0194E2?style=flat&logo=mlflow&logoColor=white" /></a>
   <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging_Face-FF4F00?style=flat&logo=huggingface&logoColor=white" /></a>
-  <a href="https://www.testandtrack.ai/"><img src="https://img.shields.io/badge/A%2FB_Testing-FF5733?style=flat&logo=testandtrack&logoColor=white" /></a>
+  <!-- <a href="https://www.testandtrack.ai/"><img src="https://img.shields.io/badge/A%2FB_Testing-FF5733?style=flat&logo=testandtrack&logoColor=white" /></a> -->
   <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" /></a>
 
   <br>
