@@ -128,11 +128,9 @@ Let’s [connect](https://www.linkedin.com/in/panuj/)!!
   <img src="https://img.shields.io/badge/Wireless_Technologies-F7DF1E?style=flat&logoColor=black" />
   <a href="https://en.wikipedia.org/wiki/5G"><img src="https://img.shields.io/badge/5G-00549F?style=flat&logo=qualcomm&logoColor=white" /></a>
   <a href="https://en.wikipedia.org/wiki/Wireshark"><img src="https://img.shields.io/badge/Wireshark-3333CC?style=flat&logo=wireshark&logoColor=white" /></a>
-  <a href="https://en.wikipedia.org/wiki/Massive_MIMO"><img src="https://img.shields.io/badge/Massive_MIMO-FFCC00?style=flat&logo=5g&logoColor=black" /></a>
   <a href="https://en.wikipedia.org/wiki/Orthogonal_frequency-division_multiplexing"><img src="https://img.shields.io/badge/OFDM-FF5733?style=flat&logo=wave&logoColor=white" /></a>
-  <a href="https://en.wikipedia.org/wiki/RAN"><img src="https://img.shields.io/badge/RAN-00CFFF?style=flat&logo=cloud&logoColor=black" /></a>
+  <a href="https://en.wikipedia.org/wiki/Radio_access_network"><img src="https://img.shields.io/badge/RAN-00CFFF?style=flat&logo=cloud&logoColor=black" /></a>
   <a href="https://en.wikipedia.org/wiki/SD-WAN"><img src="https://img.shields.io/badge/SD-WAN-32AB81?style=flat&logo=cisco&logoColor=white" /></a>
-  <a href="https://en.wikipedia.org/wiki/Free-space_optics"><img src="https://img.shields.io/badge/Free_Space_Optics-FF1493?style=flat&logo=infrared&logoColor=white" /></a>
   <br>
 
 </p>
