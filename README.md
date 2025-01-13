@@ -89,6 +89,8 @@ Let’s [connect](https://www.linkedin.com/in/panuj/)!!
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /></a>
   <a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLFlow-0194E2?style=flat&logo=mlflow&logoColor=white" /></a>
   <a href="https://www.mlops.community/"><img src="https://img.shields.io/badge/MLOps-76B900?style=flat&logo=mlops&logoColor=white" /></a>
+  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging_Face-FF4F00?style=flat&logo=huggingface&logoColor=white" /></a>
+  <a href="https://www.testandtrack.ai/"><img src="https://img.shields.io/badge/A%2FB_Testing-FF5733?style=flat&logo=testandtrack&logoColor=white" /></a>
   <br>
 
   <!-- Data Engineering & Big Data -->
@@ -99,6 +101,7 @@ Let’s [connect](https://www.linkedin.com/in/panuj/)!!
   <a href="https://airflow.apache.org/"><img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" /></a>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /></a>
   <a href="https://learn.microsoft.com/en-us/azure/cosmos-db/"><img src="https://img.shields.io/badge/CosmosDB-0078D4?style=flat&logo=microsoftazure&logoColor=white" /></a>
+  <a href="https://www.bigquery.com/"><img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white" /></a>
   <br>
 
   <!-- Cloud & DevOps -->
@@ -109,6 +112,7 @@ Let’s [connect](https://www.linkedin.com/in/panuj/)!!
   <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" /></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /></a>
+  <a href="https://gitlab.com/"><img src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white" /></a>
   <br>
 
   <!-- Data Visualization -->
@@ -123,8 +127,16 @@ Let’s [connect](https://www.linkedin.com/in/panuj/)!!
   <!-- Wireless Technologies -->
   <img src="https://img.shields.io/badge/Wireless_Technologies-F7DF1E?style=flat&logoColor=black" />
   <a href="https://en.wikipedia.org/wiki/5G"><img src="https://img.shields.io/badge/5G-00549F?style=flat&logo=qualcomm&logoColor=white" /></a>
-  <a href="https://en.wikipedia.org/wiki/Wireshark"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" /></a>
+  <a href="https://en.wikipedia.org/wiki/Wireshark"><img src="https://img.shields.io/badge/Wireshark-3333CC?style=flat&logo=wireshark&logoColor=white" /></a>
+  <a href="https://en.wikipedia.org/wiki/Massive_MIMO"><img src="https://img.shields.io/badge/Massive_MIMO-FFCC00?style=flat&logo=5g&logoColor=black" /></a>
+  <a href="https://en.wikipedia.org/wiki/Orthogonal_frequency-division_multiplexing"><img src="https://img.shields.io/badge/OFDM-FF5733?style=flat&logo=wave&logoColor=white" /></a>
+  <a href="https://en.wikipedia.org/wiki/RAN"><img src="https://img.shields.io/badge/RAN-00CFFF?style=flat&logo=cloud&logoColor=black" /></a>
+  <a href="https://en.wikipedia.org/wiki/SD-WAN"><img src="https://img.shields.io/badge/SD-WAN-32AB81?style=flat&logo=cisco&logoColor=white" /></a>
+  <a href="https://en.wikipedia.org/wiki/Free-space_optics"><img src="https://img.shields.io/badge/Free_Space_Optics-FF1493?style=flat&logo=infrared&logoColor=white" /></a>
+  <br>
+
 </p>
+
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
