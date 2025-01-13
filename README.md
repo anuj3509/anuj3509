@@ -91,6 +91,9 @@ Let’s [connect](https://www.linkedin.com/in/panuj/)!!
   <a href="https://www.mlops.community/"><img src="https://img.shields.io/badge/MLOps-76B900?style=flat&logo=mlops&logoColor=white" /></a>
   <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging_Face-FF4F00?style=flat&logo=huggingface&logoColor=white" /></a>
   <a href="https://www.testandtrack.ai/"><img src="https://img.shields.io/badge/A%2FB_Testing-FF5733?style=flat&logo=testandtrack&logoColor=white" /></a>
+  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" /></a>
+  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /></a>
+
   <br>
 
   <!-- Data Engineering & Big Data -->
@@ -99,6 +102,8 @@ Let’s [connect](https://www.linkedin.com/in/panuj/)!!
   <a href="https://hadoop.apache.org/"><img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black" /></a>
   <a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" /></a>
   <a href="https://airflow.apache.org/"><img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /></a>
+  <a href="https://www.snowflake.com/"><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" /></a>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /></a>
   <a href="https://learn.microsoft.com/en-us/azure/cosmos-db/"><img src="https://img.shields.io/badge/CosmosDB-0078D4?style=flat&logo=microsoftazure&logoColor=white" /></a>
   <a href="https://www.bigquery.com/"><img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white" /></a>
@@ -124,6 +129,14 @@ Let’s [connect](https://www.linkedin.com/in/panuj/)!!
   <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" /></a>
   <br>
 
+  <!-- Web Technologies -->
+  <img src="https://img.shields.io/badge/Web_Technologies-F7DF1E?style=flat&logoColor=black" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /></a>
+  <a href="https://d3js.org/"><img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></a>
+  <br>
+  
   <!-- Wireless Technologies -->
   <img src="https://img.shields.io/badge/Wireless_Technologies-F7DF1E?style=flat&logoColor=black" />
   <a href="https://en.wikipedia.org/wiki/5G"><img src="https://img.shields.io/badge/5G-00549F?style=flat&logo=qualcomm&logoColor=white" /></a>
